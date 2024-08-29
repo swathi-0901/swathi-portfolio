@@ -101,7 +101,7 @@ export const PROJECTS = [
     title: "Predictive Analytics using Python",
     image: project7,
     description:
-      "Employed Pandas for comprehensive data cleaning tasks, ensuring dataset in- tegrity. Improved Scikit -learn technique. Achieved 74% accuracy with linear regression, 85% with logistic regression, 82% with SVM, and 91% with decision tree.",
+      "Employed Pandas for comprehensive data cleaning tasks, ensuring dataset integrity. Improved Scikit -learn technique. Achieved 74% accuracy with linear regression, 85% with logistic regression, 82% with SVM, and 91% with decision tree.",
     technologies: ["Python", "Pandas", "NumPy", "Matplotlib"],
   },
 
