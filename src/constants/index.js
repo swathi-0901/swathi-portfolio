@@ -46,7 +46,7 @@ export const EXPERIENCES = [
     year: "April 2019 - May 2021",
     role: "Jr. Software Engineer",
     company: "Sarchy.Tech",
-    description: `Developed a React.js application for college students to share coding projects, discuss errors, participate in hackathons, and seek feedback. Implemented user authentication and role-based access with Firebase, along with features like post categorization, rich text editing with Draft.js, and interactive elements like comments, likes, and shares. Utilized Redux for state management and RESTful APIs for efficient backend communication. Deployed on Heroku using Git and Jenkins for CI/CD, ensuring scalability and high code quality, with responsive design achieved through Bootstrap.`, 
+    description: `Developed a full-stack application using React.js and Ruby on Rails with PostgreSQL as the database. Designed for college students to share coding projects, discuss errors, and participate in hackathons. Implemented user authentication with Firebase, integrated Redux for front-end state management, and used RESTful APIs for backend communication. Deployed on Heroku with CI/CD pipelines via Git and Jenkins to ensure scalability and code quality.`, 
     technologies: ["React", "RESTful APIs", "BootStrap", "GIT"],
   },
 ];
