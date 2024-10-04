@@ -7,12 +7,21 @@ import project6 from "../assets/projects/project-6.jpg";
 import project7 from "../assets/projects/project-7.jpg";
 import project8 from "../assets/projects/project-8.jpg";
 import project9 from "../assets/projects/project-9.jpg";
+import project10 from "../assets/projects/project-10.jpg";
+
 
 export const HERO_CONTENT = `Innovative Software Engineer with 4+ years of hands-on experience in building scalable applications using Python, Java, Ruby and React.js. Expertise in cloud integration, machine learning, and continuous integration practices. Skilled in full-stack development with a passion for cutting-edge technologies and problem-solving. Committed to continuous learning and driving impactful solutions for business success.`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full-stack developer with a strong foundation in building scalable and efficient web applications. With over 4 years of hands-on experience in technologies such as React.js, Ruby on Rails, Python, and SQL, I have developed a comprehensive understanding of both front-end and back-end development. My journey began with a keen interest in technology, and it has evolved into a career focused on delivering impactful solutions through continuous learning and adaptation. I excel in collaborative settings and enjoy tackling complex problems to create high-quality, user-friendly applications. Beyond coding, I stay engaged with emerging technologies and contribute to open-source projects, reflecting my commitment to growth and innovation.`;
 
 export const EXPERIENCES = [
+  {
+    year: "July 2024 - Present",
+    role: "Software Engineer",
+    company: "Info Services",
+    description: `In my role as a Software Engineer at Info Services, I work with iGuroo website to create seamless user experiences by designing intuitive user flows and wireframes. Using Figma, HTML, CSS, JavaScript, and React, I develop interactive web applications that enhance user engagement. By analyzing user behavior patterns through Pendo analytics, I drive data-driven product improvements and optimize features to ensure a user-friendly platform.`,
+    technologies: ["React.js", "Figma", "Miro", "Pendo", "HTML","CSS", "JavaScript"],
+  },
   {
     year: "Aug 2022 - May 2024",
     role: "Tech Media Assistant",
@@ -22,7 +31,7 @@ export const EXPERIENCES = [
   },
   {
     year: "Jan 2022 - Jun 2022",
-    role: "Software Development Intern",
+    role: "Software Development Engineer",
     company: "HashedIn by Deloitte",
     description: `Engineered Python scripts with the backend team to enhance item matching and management on the Sodexo project, achieving a 30% reduction in errors and a 20% improvement in data accuracy. Implemented an 87% accurate pre-trained classification model and supported agile backend development, enhancing system functionality and efficiency. Developed scalable APIs with Django and Django REST Framework, integrating machine learning models into production systems. Utilized Apache Spark for large-scale data processing, optimizing performance and scalability for extensive datasets.`,
     technologies: ["Python", "Django", "Apache Spark", "Machine Learning"],
@@ -120,11 +129,17 @@ export const PROJECTS = [
       "Designed and developed a comprehensive dashboard web application using Ruby on Rails. Customized views for various user roles and implemented robust role-based access controls. Leveraged ActiveRecord APIs to seamlessly manage and query a PostgreSQL database, handling a substantial volume of data.",
     technologies: ["Ruby On Rails", "Ruby", "ActiveRecord", "PostgreSQL"],
   },
-  
+  {
+    title: "Dashboard Web ApplicationJagline App Redesign UI/UX Project",
+    image: project10,
+    description:
+      "Led the redesign using Figma and Adobe XD, creating wireframes and high-fidelity prototypes. Collaborated with classmates via Miro for ideation, conducted usability testing, and refined designs based on user feedback. Developed a responsive design system ensuring consistency.",
+    technologies: ["Figma", "Adobe XD"],
+  },
 ];
 
 export const CONTACT = {
-  address: "Indianapolis, IN 46202 ",
+  address: "Canton, Michigan ",
   phoneNo: "+1 (832) 679-4934",
   email: "swathi.kasikala@gmail.com",
 };
