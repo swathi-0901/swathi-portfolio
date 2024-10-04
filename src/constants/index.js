@@ -10,7 +10,7 @@ import project9 from "../assets/projects/project-9.jpg";
 import project10 from "../assets/projects/project-10.jpg";
 
 
-export const HERO_CONTENT = `Innovative Software Engineer with 4+ years of hands-on experience in building scalable applications using Python, Java, Ruby and React.js. Expertise in cloud integration, machine learning, and continuous integration practices. Skilled in full-stack development with a passion for cutting-edge technologies and problem-solving. Committed to continuous learning and driving impactful solutions for business success.`;
+export const HERO_CONTENT = `Innovative Software Engineer with 4+ years of hands-on experience in building scalable applications using Python and React.js. Expertise in cloud integration, machine learning, and continuous integration practices. Skilled in full-stack development with a passion for cutting-edge technologies and problem-solving. Committed to continuous learning and driving impactful solutions for business success.`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full-stack developer with a strong foundation in building scalable and efficient web applications. With over 4 years of hands-on experience in technologies such as React.js, Ruby on Rails, Python, and SQL, I have developed a comprehensive understanding of both front-end and back-end development. My journey began with a keen interest in technology, and it has evolved into a career focused on delivering impactful solutions through continuous learning and adaptation. I excel in collaborative settings and enjoy tackling complex problems to create high-quality, user-friendly applications. Beyond coding, I stay engaged with emerging technologies and contribute to open-source projects, reflecting my commitment to growth and innovation.`;
 
@@ -130,7 +130,7 @@ export const PROJECTS = [
     technologies: ["Ruby On Rails", "Ruby", "ActiveRecord", "PostgreSQL"],
   },
   {
-    title: "Dashboard Web ApplicationJagline App Redesign UI/UX Project",
+    title: "Jagline App Redesign UI/UX Project",
     image: project10,
     description:
       "Led the redesign using Figma and Adobe XD, creating wireframes and high-fidelity prototypes. Collaborated with classmates via Miro for ideation, conducted usability testing, and refined designs based on user feedback. Developed a responsive design system ensuring consistency.",
